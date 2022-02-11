@@ -54,6 +54,14 @@ footer {
 
 }
 
+@media (max-width: 1024px) {
+
+  h1 {
+    font-size: 5rem;
+  }
+
+}
+
 @media (max-width: 767px) {
 
   h1 {
@@ -62,10 +70,3 @@ footer {
 
 }
 
-@media (max-width: 1024px) {
-
-  h1 {
-    font-size: 5rem;
-  }
-
-}
